@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KakaoPirat\\Documents\\GitHub\\NewRepositoryPull\\Collaboration\\Collaboration\\Collaboration.csproj": {}
+    "/Users/tobiasengberg/LexProj/NewRepositoryPull/Collaboration/Collaboration/Collaboration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KakaoPirat\\Documents\\GitHub\\NewRepositoryPull\\Collaboration\\Collaboration\\Collaboration.csproj": {
+    "/Users/tobiasengberg/LexProj/NewRepositoryPull/Collaboration/Collaboration/Collaboration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KakaoPirat\\Documents\\GitHub\\NewRepositoryPull\\Collaboration\\Collaboration\\Collaboration.csproj",
+        "projectUniqueName": "/Users/tobiasengberg/LexProj/NewRepositoryPull/Collaboration/Collaboration/Collaboration.csproj",
         "projectName": "Collaboration",
-        "projectPath": "C:\\Users\\KakaoPirat\\Documents\\GitHub\\NewRepositoryPull\\Collaboration\\Collaboration\\Collaboration.csproj",
-        "packagesPath": "C:\\Users\\KakaoPirat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KakaoPirat\\Documents\\GitHub\\NewRepositoryPull\\Collaboration\\Collaboration\\obj\\",
+        "projectPath": "/Users/tobiasengberg/LexProj/NewRepositoryPull/Collaboration/Collaboration/Collaboration.csproj",
+        "packagesPath": "/Users/tobiasengberg/.nuget/packages/",
+        "outputPath": "/Users/tobiasengberg/LexProj/NewRepositoryPull/Collaboration/Collaboration/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\KakaoPirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/tobiasengberg/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
         }
       }
     }
