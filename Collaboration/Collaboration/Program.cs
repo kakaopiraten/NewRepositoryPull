@@ -10,6 +10,8 @@ namespace Collaboration
             double userInput = 0;
             double.TryParse(Console.ReadLine(), out userInput);
             Console.WriteLine(userInput);
+
+            userInput += Math.PI;
         }
     }
 }
