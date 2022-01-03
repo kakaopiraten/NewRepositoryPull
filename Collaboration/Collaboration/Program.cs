@@ -12,6 +12,8 @@ namespace Collaboration
             Console.WriteLine(userInput);
 
             userInput += Math.PI;
+
+            Console.WriteLine(userInput);
         }
     }
 }
